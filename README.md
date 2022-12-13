@@ -1,6 +1,6 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Payal Maheshwari! 
+# Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! 
 <a href="https://www.linkedin.com/in/payal-maheshwari-86a3521bb/">
-  <img align="left" alt="Harsh's Linkedin" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Payal's Linkedin" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_.paaayal/">
   <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
@@ -19,11 +19,11 @@
 
 👋 Hi, I’m Payal Maheshwari.
 
-🕸I am studying Computer Science & Engineering at Vellore Institute of Technology, Vellore.
+🕸 I am studying Computer Science & Engineering at Vellore Institute of Technology, Vellore.
 
 🌱 I’m currently learning Front-end web development and I'm a college student seeking an Internship in Software Engineering to strengthen my coding and designing abilities. The ability to pay close attention to detail, communicate with others, and be eager to learn are some of my few strengths.
 
-👀 I’m interested in Full stack web development.
+👩🏻‍💻 I’m interested in Full stack web development.
 
 
  <br>
